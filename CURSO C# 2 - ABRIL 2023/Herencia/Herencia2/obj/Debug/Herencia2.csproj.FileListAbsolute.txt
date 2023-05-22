@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Herencia\Herencia2\bin\Debug\Herencia2.exe.config
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Herencia\Herencia2\bin\Debug\Herencia2.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Herencia\Herencia2\bin\Debug\Herencia2.pdb
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Herencia\Herencia2\obj\Debug\Herencia2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Herencia\Herencia2\obj\Debug\Herencia2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Herencia\Herencia2\obj\Debug\Herencia2.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Herencia\Herencia2\obj\Debug\Herencia2.pdb

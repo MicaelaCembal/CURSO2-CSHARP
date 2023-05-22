@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.pdb

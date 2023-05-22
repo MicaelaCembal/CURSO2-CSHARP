@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Ejemplo1POO\Ejemplo1POO\bin\Debug\Ejemplo1POO.exe.config
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Ejemplo1POO\Ejemplo1POO\bin\Debug\Ejemplo1POO.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Ejemplo1POO\Ejemplo1POO\bin\Debug\Ejemplo1POO.pdb
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Ejemplo1POO\Ejemplo1POO\obj\Debug\Ejemplo1POO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Ejemplo1POO\Ejemplo1POO\obj\Debug\Ejemplo1POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Ejemplo1POO\Ejemplo1POO\obj\Debug\Ejemplo1POO.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\Ejemplo1POO\Ejemplo1POO\obj\Debug\Ejemplo1POO.pdb
