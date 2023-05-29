@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;TipoRadioButton.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Nombre.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="FechaNacimiento.Text" xml:space="preserve">
+    <value>Fecha De Nacimiento</value>
+  </data>
+  <data name="&gt;&gt;labelColor.Name" xml:space="preserve">
+    <value>labelColor</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="rbtRapunzel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 21</value>
+  </data>
+  <data name="comboBoxColor.Items" xml:space="preserve">
+    <value>Rojo</value>
+  </data>
+  <data name="&gt;&gt;dateTimePickerFechaNacimiento.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;labelNumero.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>583, 616</value>
+  </data>
+  <data name="checkBoxPrincesas.Text" xml:space="preserve">
+    <value>¿Te gustan las peliculas?</value>
+  </data>
+  <data name="&gt;&gt;rbtAriel.Name" xml:space="preserve">
+    <value>rbtAriel</value>
+  </data>
+  <data name="rbtRapunzel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtAriel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 25</value>
+  </data>
+  <data name="&gt;&gt;elementos.Name" xml:space="preserve">
+    <value>elementos</value>
+  </data>
+  <data name="Nombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 17</value>
+  </data>
+  <data name="&gt;&gt;elementos.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;elementos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TipoRadioButton.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;Nombre.Name" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;labelColor.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="FechaNacimiento.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="labelColor.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxPrincesas.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;FechaNacimiento.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="rbtCenicienta.Text" xml:space="preserve">
+    <value>Cenicienta</value>
+  </data>
+  <data name="&gt;&gt;btnAgregar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>565, 569</value>
+  </data>
+  <data name="txtNombre.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelPerfil.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="rbtCenicienta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 21</value>
+  </data>
+  <data name="FechaNacimiento.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 113</value>
+  </data>
+  <data name="labelPerfil.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 39</value>
+  </data>
+  <data name="labelNumero.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="comboBoxColor.Items2" xml:space="preserve">
+    <value>Azul</value>
+  </data>
+  <data name="labelPerfil.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20pt</value>
+  </data>
+  <data name="&gt;&gt;Nombre.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;rbtAriel.Parent" xml:space="preserve">
+    <value>TipoRadioButton</value>
+  </data>
+  <data name="&gt;&gt;rbtRapunzel.Parent" xml:space="preserve">
+    <value>TipoRadioButton</value>
+  </data>
+  <data name="&gt;&gt;FechaNacimiento.Name" xml:space="preserve">
+    <value>FechaNacimiento</value>
+  </data>
+  <data name="&gt;&gt;rbtRapunzel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dateTimePickerFechaNacimiento.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Nombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxPrincesas.Name" xml:space="preserve">
+    <value>checkBoxPrincesas</value>
+  </data>
+  <data name="&gt;&gt;labelPerfil.Name" xml:space="preserve">
+    <value>labelPerfil</value>
+  </data>
+  <data name="numericUpDown1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 22</value>
+  </data>
+  <data name="checkBoxPrincesas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>218, 152</value>
+  </data>
+  <data name="labelNumero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 17</value>
+  </data>
+  <data name="&gt;&gt;labelPerfil.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;comboBoxColor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Nombre.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;FechaNacimiento.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelPerfil.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnAgregar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 509</value>
+  </data>
+  <data name="dateTimePickerFechaNacimiento.Size" type="System.Drawing.Size, System.Drawing">
+    <value>278, 22</value>
+  </data>
+  <data name="&gt;&gt;rbtCenicienta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TipoRadioButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>576, 69</value>
+  </data>
+  <data name="&gt;&gt;comboBoxColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxColor.Name" xml:space="preserve">
+    <value>comboBoxColor</value>
+  </data>
+  <data name="&gt;&gt;TipoRadioButton.Name" xml:space="preserve">
+    <value>TipoRadioButton</value>
+  </data>
+  <data name="&gt;&gt;checkBoxPrincesas.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="labelColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 17</value>
+  </data>
+  <data name="btnVerPerfil.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 35</value>
+  </data>
+  <data name="labelPerfil.Text" xml:space="preserve">
+    <value>Perfil Persona</value>
+  </data>
+  <data name="&gt;&gt;comboBoxColor.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;FechaNacimiento.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="txtNombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 71</value>
+  </data>
+  <data name="FechaNacimiento.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 17</value>
+  </data>
+  <data name="rbtCenicienta.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtRapunzel.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="Nombre.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;checkBoxPrincesas.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;rbtAriel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rbtAriel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;labelColor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnVerPerfil.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="comboBoxColor.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;btnVerPerfil.Name" xml:space="preserve">
+    <value>btnVerPerfil</value>
+  </data>
+  <data name="comboBoxColor.Items1" xml:space="preserve">
+    <value>Amarillo</value>
+  </data>
+  <data name="labelColor.Text" xml:space="preserve">
+    <value>Color Favorito</value>
+  </data>
+  <data name="comboBoxColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 24</value>
+  </data>
+  <data name="labelPerfil.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;dateTimePickerFechaNacimiento.Name" xml:space="preserve">
+    <value>dateTimePickerFechaNacimiento</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelNumero.Text" xml:space="preserve">
+    <value>Número</value>
+  </data>
+  <data name="TipoRadioButton.Text" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="comboBoxColor.Items4" xml:space="preserve">
+    <value>Blanco</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Name" xml:space="preserve">
+    <value>txtNombre</value>
+  </data>
+  <data name="txtNombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 22</value>
+  </data>
+  <data name="rbtCenicienta.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btnAgregar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TipoRadioButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TipoRadioButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rbtAriel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rbtRapunzel.Text" xml:space="preserve">
+    <value>Rapunzel</value>
+  </data>
+  <data name="&gt;&gt;btnAgregar.Name" xml:space="preserve">
+    <value>btnAgregar</value>
+  </data>
+  <data name="checkBoxPrincesas.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnVerPerfil.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Name" xml:space="preserve">
+    <value>numericUpDown1</value>
+  </data>
+  <data name="btnAgregar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="comboBoxColor.Items3" xml:space="preserve">
+    <value>Verde</value>
+  </data>
+  <data name="&gt;&gt;rbtCenicienta.Parent" xml:space="preserve">
+    <value>TipoRadioButton</value>
+  </data>
+  <data name="rbtAriel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 21</value>
+  </data>
+  <data name="&gt;&gt;labelNumero.Name" xml:space="preserve">
+    <value>labelNumero</value>
+  </data>
+  <data name="btnAgregar.Text" xml:space="preserve">
+    <value>Agregar</value>
+  </data>
+  <data name="elementos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>226, 97</value>
+  </data>
+  <data name="&gt;&gt;rbtCenicienta.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="elementos.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="numericUpDown1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 315</value>
+  </data>
+  <data name="&gt;&gt;btnVerPerfil.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregar.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="labelPerfil.Location" type="System.Drawing.Point, System.Drawing">
+    <value>76, 20</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Nombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 74</value>
+  </data>
+  <data name="rbtAriel.Text" xml:space="preserve">
+    <value>Ariel</value>
+  </data>
+  <data name="&gt;&gt;rbtCenicienta.Name" xml:space="preserve">
+    <value>rbtCenicienta</value>
+  </data>
+  <data name="rbtAriel.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnVerPerfil.Text" xml:space="preserve">
+    <value>Ver Perfil</value>
+  </data>
+  <data name="&gt;&gt;elementos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="labelColor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 274</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dateTimePickerFechaNacimiento.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="dateTimePickerFechaNacimiento.Location" type="System.Drawing.Point, System.Drawing">
+    <value>218, 108</value>
+  </data>
+  <data name="labelPerfil.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="labelColor.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="labelNumero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 320</value>
+  </data>
+  <data name="FechaNacimiento.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;labelNumero.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="rbtRapunzel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>308, 25</value>
+  </data>
+  <data name="rbtCenicienta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 25</value>
+  </data>
+  <data name="&gt;&gt;dateTimePickerFechaNacimiento.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="labelNumero.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;checkBoxPrincesas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="numericUpDown1.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;labelNumero.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="checkBoxPrincesas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 21</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnVerPerfil.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 363</value>
+  </data>
+  <data name="btnAgregar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 35</value>
+  </data>
+  <data name="&gt;&gt;rbtRapunzel.Name" xml:space="preserve">
+    <value>rbtRapunzel</value>
+  </data>
+  <data name="TipoRadioButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 187</value>
+  </data>
+  <data name="comboBoxColor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 274</value>
+  </data>
+  <data name="Nombre.Text" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="elementos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 447</value>
+  </data>
+  <data name="&gt;&gt;btnVerPerfil.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;rbtRapunzel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es</value>
+  </metadata>
+</root>

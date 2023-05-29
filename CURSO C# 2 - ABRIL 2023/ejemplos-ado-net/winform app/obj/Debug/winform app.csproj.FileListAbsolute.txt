@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\bin\Debug\winform app.exe.config
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\bin\Debug\winform app.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\bin\Debug\winform app.pdb
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform app.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform_app.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform app.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform app.exe
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform app.pdb
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform_app.frmPokemons.resources
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform app.csproj.CopyComplete
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\MICAELA\CURSOS\CURSO C# 2 - ABRIL 2023\ejemplos-ado-net\winform app\obj\Debug\winform_app.frmAltaPokemon.resources
